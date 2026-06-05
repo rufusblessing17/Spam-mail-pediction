@@ -1,1 +1,1 @@
-# Spam-mail-pediction
+# ml end-to-end project
